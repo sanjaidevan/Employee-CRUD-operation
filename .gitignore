@@ -1,0 +1,2 @@
+#this is employee crud project, so we will ignore the .env file which contains the database credentials
+.env
